@@ -7,7 +7,7 @@ https://cloud.google.com/appengine/docs/standard/tools/local-devserver-command?t
 
 ### Local Dev Server Help Menu (Ubuntu/Mac)
 ```
-python /Users/martinoywa/google-cloud-sdk/bin/dev_appserver.py -h
+python ~/google-cloud-sdk/bin/dev_appserver.py -h
 ```
 
 ### Run Application (Ubuntu/Mac)
