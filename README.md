@@ -29,3 +29,4 @@ http://localhost:61082
 Notes:
 1. Update the PORT to whichever the its listening from. (This line in your terminal `Listening at:`)
 2. You can change the behaviour here https://cloud.google.com/appengine/docs/standard/tools/using-local-server?tab=python#running_the_local_development_server.
+3. Make sure the URL is `http://localhost` instead of `http://0.0.0.0`.
